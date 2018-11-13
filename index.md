@@ -9,14 +9,12 @@ title: CV Tom van Steijn
 </div>
 
 
-## Huidig
-Employed as geohydrologist
-
+## Samenvatting
+Geohydroloog
  
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Occupation
