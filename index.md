@@ -3,14 +3,14 @@ layout: cv
 title: CV Tom van Steijn
 ---
 # Tom van Steijn
-Geohydrologist.
 
 <div id="webaddress">
 <a href="tomvansteijn@gmail.com">tomvansteijn@gmail.com</a>
 </div>
 
 
-## Currently
+## Huidig
+Employed as geohydrologist
 
  
 
